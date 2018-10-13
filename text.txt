@@ -1,3 +1,7 @@
 master midify--1
 develop midify--1
+<<<<<<< HEAD
 develop midify--3
+=======
+develop midify--2
+>>>>>>> ce44041f4dc767e5dd3d89d5f9c4d422b357a77e
